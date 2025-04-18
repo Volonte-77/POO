@@ -1,2 +1,3 @@
-#afficher un petit helloworld
-print("hello word")
+# -*- coding: utf-8 -*-
+# affichage d'un helloworl
+print("Hello World")
